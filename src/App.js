@@ -1,8 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import Home from './pages/home';
-import DetailProject from "./components/DetailProject"
-import CardDetail from './components/CardDetail';
 
 function App() {
   return (
@@ -11,7 +9,6 @@ function App() {
       <Routes>
 
         <Route path='/' element={<Home />} />
-        <Route path='/detaildata' element={<CardDetail />} />
 
       </Routes>
 
