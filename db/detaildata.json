@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "title" : "Website Lowongan Pekerjaan React JS",
+        "description" : "Website mencari lowongan pekerjaan dibuat dengan menggunakan React JS dan Tailwind CSS",
+        "srccode" : "https://github.com/20fake/websitejobvacancies"
+    },
+    {
+        "id" : 2,
+        "title" : "Website Profile Portofolio React JS",
+        "description" : "Website untuk profil pribadi dibuat dengan menggunakan React JS dan Tailwind CSS",
+        "srccode" : "https://github.com/20fake/web-profile"
+    },
+    {
+        "id" : 3,
+        "title" : "Aplikasi Alarm berbasis Android dengan Python",
+        "description" : "Aplikasi alarm android berbasis bahasa pemrograman python menggunakan library kivy dan kivymd",
+        "srccode" : "https://github.com/20fake/kivy-simple-alarm"
+    },
+    {
+        "id" : 4,
+        "title" : "Aplikasi Virtual Assistant untuk Lansia",
+        "description" : "Aplikasi android berbasis python untuk membantu lansia mengingatkan kegiatan sehari-hari",
+        "srccode" : "https://github.com/20fake/python-kivy-lansia"
+    },
+    {
+        "id" : 3,
+        "title" : "Aplikasi Alarm berbasis Android dengan Python",
+        "description" : "Aplikasi alarm android berbasis bahasa pemrograman python menggunakan library kivy dan kivymd",
+        "srccode" : "https://github.com/20fake/kivy-simple-alarm"
+    },
+    {
+        "id" : 4,
+        "title" : "Aplikasi Virtual Assistant untuk Lansia",
+        "description" : "Aplikasi android berbasis python untuk membantu lansia mengingatkan kegiatan sehari-hari",
+        "srccode" : "https://github.com/20fake/python-kivy-lansia"
+    }
+]
