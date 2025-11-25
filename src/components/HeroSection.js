@@ -54,7 +54,7 @@ const HeroSection = () => {
             <img
               src={photo}
               className="max-w-60 lg:max-w-72"
-              alt="Profile photo of Muhammad Fathurrahman"
+              alt="Muhammad Fathurrahman"
             />
           </div>
         </div>
