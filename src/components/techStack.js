@@ -25,13 +25,13 @@ const TechStack = () => {
                         {text} <Cursor />
                     </h1>
                     <div className="flex w-full flex-wrap items-center justify-center mt-5">
-                        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
-                        <img src={jsicon} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
-                        <img src={reactimg} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
-                        <img src={tailwindicon} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
-                        <img src={adobe_illustrator} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
-                        <img src={adobe_photoshop} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
-                        <img src={canva} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0"></img>
+                        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="profile"></img>
+                        <img src={jsicon} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="javascript"></img>
+                        <img src={reactimg} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="react"></img>
+                        <img src={tailwindicon} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="tailwind"></img>
+                        <img src={adobe_illustrator} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="adobe-illustrator"></img>
+                        <img src={adobe_photoshop} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="adobe-photoshop"></img>
+                        <img src={canva} className="max-h-12 md:max-h-16 lg:max-h-20 mx-2 my-2 md:my-0" alt="canva"></img>
                     </div>
                 </div>
             </section>
