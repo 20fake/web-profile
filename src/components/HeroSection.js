@@ -66,7 +66,7 @@ const HeroSection = () => {
             <IconContext.Provider value={{ size: "1.5em" }}>
               <div className="p-2">
                 <a
-                  href="https://instagram.com/muhfathur.r"
+                  href="https://instagram.com/fathurstudio_"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
